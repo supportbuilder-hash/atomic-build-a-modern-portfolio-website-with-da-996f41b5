@@ -1,0 +1,562 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "projects": "Proyectos",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "hire": "Contratarme"
+  },
+  "footer": {
+    "tagline": "Construyendo aplicaciones web rápidas, escalables y hermosas — desde frontends pixel-perfect hasta sistemas backend robustos.",
+    "navigation": "Navegación",
+    "contact": "Ponte en contacto",
+    "downloadResume": "Descargar CV (PDF)",
+    "status": "Abierto a oportunidades",
+    "copyright": "© {year} {name}. Todos los derechos reservados.",
+    "builtWith": "Construido con Next.js, TypeScript y Framer Motion"
+  },
+  "hero": {
+    "available": "Disponible para trabajar",
+    "cta_primary": "Ver mi trabajo",
+    "cta_secondary": "Saludar",
+    "greeting": "Hola, soy Afzal",
+    "role": "Desarrollador full stack",
+    "scroll": "Desplázate para explorar",
+    "social_label": "Sígueme",
+    "tagline": "Creando soluciones elegantes a problemas complejos"
+  },
+  "cta": {
+    "badge": "Construyamos",
+    "button_primary": "Iniciar un proyecto",
+    "button_secondary": "Ponte en contacto",
+    "footnote": "Generalmente respondo dentro de 24 horas.",
+    "heading": "Construyamos algo increíble",
+    "subheading": "¿Tienes un proyecto en mente? Me encantaría escucharlo."
+  },
+  "projects-hero": {
+    "heading": "Cosas que he construido",
+    "body": "Una colección seleccionada de proyectos full stack — desde aplicaciones SaaS de nivel producción hasta herramientas de código abierto. Cada uno es la historia de un problema que vale la pena resolver, construido con cuidado desde la base de datos hasta la interfaz."
+  },
+  "about-hero": {
+    "heading": "La persona detrás del código.",
+    "body": "Soy Afzal Rao — un desarrollador full stack obsesionado con la arquitectura limpia, interfaces pixel-perfect y software que realmente se entrega. Aquí está la historia completa."
+  },
+  "contact-hero": {
+    "heading": "Construyamos algo juntos",
+    "body": "Ya sea que tengas un proyecto en mente, un puesto que llenar, o simplemente quieras hablar de tecnología — mi bandeja de entrada siempre está abierta. Generalmente respondo dentro de 24 horas."
+  },
+  "about": {
+    "available": "Abierto a oportunidades",
+    "badge": "Desarrollador Full Stack",
+    "bio1": "Soy Afzal Rao, un desarrollador full stack apasionado por construir aplicaciones web elegantes y escalables.",
+    "bio2": "Con experiencia en tecnologías frontend y backend, creo experiencias digitales fluidas que resuelven problemas reales.",
+    "connectBody": "Colaboremos en tu próximo proyecto o discutamos cómo puedo contribuir a tu equipo.",
+    "connectBtn": "Ponte en contacto",
+    "connectHeading": "¿Listo para trabajar juntos?",
+    "expEyebrow": "Experiencia",
+    "expHeading": "Trayectoria Profesional",
+    "eyebrow": "Sobre mí",
+    "heading": "Afzal Rao",
+    "location": "Con presencia global",
+    "resumeBody": "Descarga mi currículum para ver mi experiencia completa, habilidades y proyectos anteriores.",
+    "resumeBtn": "Descargar currículum",
+    "resumeHeading": "Mi Currículum",
+    "skillsEyebrow": "Habilidades",
+    "skillsHeading": "Experiencia Técnica",
+    "skillsSubhead": "Competente en tecnologías web modernas y prácticas de desarrollo."
+  },
+  "contact": {
+    "eyebrow": "Ponte en contacto",
+    "form": {
+      "emailLabel": "Correo electrónico",
+      "emailPlaceholder": "tu@email.com",
+      "errorMessage": "Algo salió mal. Por favor, intenta de nuevo.",
+      "errors": {
+        "emailInvalid": "Por favor, ingresa una dirección de correo válida.",
+        "emailRequired": "El correo electrónico es obligatorio.",
+        "messageRequired": "El mensaje es obligatorio.",
+        "messageTooShort": "El mensaje debe tener al menos 10 caracteres.",
+        "nameRequired": "El nombre es obligatorio.",
+        "subjectRequired": "El asunto es obligatorio."
+      },
+      "heading": "Envíame un mensaje",
+      "messageLabel": "Mensaje",
+      "messagePlaceholder": "Cuéntame sobre tu proyecto o consulta...",
+      "nameLabel": "Nombre",
+      "namePlaceholder": "Tu nombre",
+      "sendButton": "Enviar mensaje",
+      "sending": "Enviando...",
+      "subheading": "Me encantaría saber de ti. Completa el formulario a continuación y me pondré en contacto pronto.",
+      "subjectLabel": "Asunto",
+      "subjectPlaceholder": "¿De qué se trata?",
+      "successMessage": "¡Gracias por comunicarte! Me pondré en contacto pronto."
+    },
+    "heading": "Conectemos",
+    "info": {
+      "availabilityText": "Disponible para proyectos freelance y roles a tiempo completo",
+      "availabilityTitle": "Disponibilidad",
+      "emailLabel": "Correo electrónico",
+      "location": "Global",
+      "responseNote": "Generalmente respondo dentro de 24 horas.",
+      "socialTitle": "Sígueme",
+      "timezone": "Flexible en diferentes zonas horarias"
+    },
+    "subheading": "¿Tienes un proyecto en mente? Construyamos algo increíble juntos."
+  },
+  "projects": {
+    "badge": "Destacado",
+    "empty": "Sin proyectos aún. Vuelve pronto.",
+    "eyebrow": "Trabajo reciente",
+    "heading": "Proyectos",
+    "live_demo": "Demo en vivo",
+    "modal": {
+      "close": "Cerrar",
+      "liveDemo": "Ver en vivo",
+      "techStack": "Stack tecnológico",
+      "viewCode": "Ver código"
+    },
+    "source": "GitHub",
+    "subheading": "Una selección de trabajos de los que estoy orgulloso.",
+    "view_all": "Ver todos los proyectos"
+  },
+  "services": {
+    "eyebrow": "Qué hago",
+    "heading": "Servicios",
+    "subheading": "Desarrollo full-stack de concepto a implementación."
+  },
+  "testimonials": {
+    "eyebrow": "Prueba social",
+    "heading": "Testimonios"
+  },
+  "featured-projects": [
+    {
+      "id": "devflow",
+      "title": "DevFlow",
+      "description": "A real-time collaborative code review platform built with Next.js 14, WebSockets, and PostgreSQL. Supports inline comments, threaded discussions, and GitHub PR sync.",
+      "tech": "Next.js · TypeScript · Socket.io · Prisma · Tailwind CSS",
+      "image": "/images/devflow-code-review-platform.jpg"
+    },
+    {
+      "id": "shopsphere",
+      "title": "ShopSphere",
+      "description": "A high-performance e-commerce storefront with server-side rendering, Stripe payments, and an admin dashboard. Handles 10k+ SKUs with sub-200ms page loads.",
+      "tech": "Next.js · Node.js · MongoDB · Stripe API · Redis",
+      "image": "/images/shopsphere-ecommerce-storefront.jpg"
+    },
+    {
+      "id": "taskforge",
+      "title": "TaskForge",
+      "description": "A Kanban-style project management tool with drag-and-drop boards, team workspaces, and real-time updates via Supabase Realtime.",
+      "tech": "React · Supabase · Framer Motion · Tailwind CSS",
+      "image": "/images/taskforge-kanban-project-management.jpg"
+    },
+    {
+      "id": "loglens",
+      "title": "LogLens",
+      "description": "A lightweight developer observability tool that aggregates logs, surfaces errors, and sends Slack alerts. Built as an open-source side project with 400+ GitHub stars.",
+      "tech": "Node.js · Express · ClickHouse · React · Docker",
+      "image": "/images/loglens-developer-observability-tool.jpg"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Next.js",
+      "desc": "App Router, SSR, ISR, and edge-ready deployments"
+    },
+    {
+      "name": "TypeScript",
+      "desc": "Strict typing across every layer of the stack"
+    },
+    {
+      "name": "React",
+      "desc": "Component architecture, hooks, and performance optimization"
+    },
+    {
+      "name": "Node.js",
+      "desc": "REST APIs, background jobs, and microservices"
+    },
+    {
+      "name": "PostgreSQL",
+      "desc": "Schema design, query optimization, and migrations"
+    },
+    {
+      "name": "Prisma",
+      "desc": "Type-safe ORM with seamless migration workflows"
+    },
+    {
+      "name": "Tailwind CSS",
+      "desc": "Utility-first styling with custom design systems"
+    },
+    {
+      "name": "Docker",
+      "desc": "Containerized dev environments and production deployments"
+    },
+    {
+      "name": "Redis",
+      "desc": "Caching, pub/sub, and session management"
+    },
+    {
+      "name": "AWS",
+      "desc": "EC2, S3, Lambda, and CloudFront for scalable infrastructure"
+    },
+    {
+      "name": "Git & GitHub",
+      "desc": "Branch strategies, CI/CD pipelines, and code review"
+    },
+    {
+      "name": "Framer Motion",
+      "desc": "Fluid, physics-based UI animations"
+    }
+  ],
+  "project-grid": [
+    {
+      "id": "devflow",
+      "title": "DevFlow",
+      "description": "A real-time collaborative code review platform built with Next.js 14, Socket.io, and PostgreSQL. Teams can annotate pull requests, run inline comments, and resolve threads without leaving the browser.",
+      "tech": [
+        "Next.js",
+        "TypeScript",
+        "Socket.io",
+        "PostgreSQL",
+        "Prisma",
+        "Tailwind CSS"
+      ],
+      "category": "SaaS",
+      "github": "https://github.com/afzalrao/devflow",
+      "image": "/images/devflow-code-review-platform.jpg"
+    },
+    {
+      "id": "vaultpass",
+      "title": "VaultPass",
+      "description": "A zero-knowledge password manager with end-to-end AES-256 encryption. All secrets are encrypted client-side before hitting the server — the backend never sees plaintext.",
+      "tech": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Web Crypto API",
+        "Docker"
+      ],
+      "category": "Security",
+      "github": "https://github.com/afzalrao/vaultpass",
+      "image": "/images/vaultpass-password-manager-security.jpg"
+    },
+    {
+      "id": "shipmetrics",
+      "title": "ShipMetrics",
+      "description": "SaaS analytics dashboard for e-commerce sellers tracking orders, revenue, and fulfillment KPIs in real time. Integrates with Shopify and WooCommerce via webhooks.",
+      "tech": [
+        "Next.js",
+        "Chart.js",
+        "Redis",
+        "PostgreSQL",
+        "Stripe",
+        "REST APIs"
+      ],
+      "category": "SaaS",
+      "github": "https://github.com/afzalrao/shipmetrics",
+      "image": "/images/shipmetrics-ecommerce-analytics-dashboard.jpg"
+    },
+    {
+      "id": "threadcast",
+      "title": "ThreadCast",
+      "description": "A Twitter/X thread scheduling and analytics tool. Compose multi-tweet threads with a rich editor, schedule them, and track impressions, clicks, and follower growth over time.",
+      "tech": [
+        "React",
+        "Node.js",
+        "Twitter API v2",
+        "MongoDB",
+        "BullMQ",
+        "Tailwind CSS"
+      ],
+      "category": "Tool",
+      "github": "https://github.com/afzalrao/threadcast",
+      "image": "/images/threadcast-twitter-thread-scheduler.jpg"
+    },
+    {
+      "id": "opencartai",
+      "title": "OpenCart AI",
+      "description": "An open-source headless e-commerce starter with an AI-powered product recommendation engine. Plug in your product catalog and get personalized upsell suggestions out of the box.",
+      "tech": [
+        "Next.js",
+        "Python",
+        "FastAPI",
+        "OpenAI API",
+        "Stripe",
+        "Supabase"
+      ],
+      "category": "Open Source",
+      "github": "https://github.com/afzalrao/opencart-ai",
+      "image": "/images/opencartai-headless-ecommerce-ai.jpg"
+    },
+    {
+      "id": "pingboard",
+      "title": "PingBoard",
+      "description": "A lightweight uptime monitoring service that checks your endpoints every 60 seconds and sends Slack or email alerts on downtime. Includes a public status page generator.",
+      "tech": [
+        "Node.js",
+        "Express",
+        "Cron",
+        "PostgreSQL",
+        "SendGrid",
+        "Slack API"
+      ],
+      "category": "DevOps",
+      "github": "https://github.com/afzalrao/pingboard",
+      "image": "/images/pingboard-uptime-monitoring-service.jpg"
+    },
+    {
+      "id": "lexiform",
+      "title": "LexiForm",
+      "description": "A dynamic form builder with conditional logic, multi-step flows, and response analytics. Forms are rendered from a JSON schema, making them fully embeddable via a script tag.",
+      "tech": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "MongoDB",
+        "Zod",
+        "Framer Motion"
+      ],
+      "category": "Tool",
+      "github": "https://github.com/afzalrao/lexiform",
+      "image": "/images/lexiform-dynamic-form-builder.jpg"
+    },
+    {
+      "id": "cloudnotes",
+      "title": "CloudNotes",
+      "description": "A Markdown-first note-taking app with real-time sync across devices, tag-based organization, and full-text search powered by a custom inverted index.",
+      "tech": [
+        "React",
+        "Firebase",
+        "Firestore",
+        "Marked.js",
+        "Tailwind CSS",
+        "PWA"
+      ],
+      "category": "App",
+      "github": "https://github.com/afzalrao/cloudnotes",
+      "image": "/images/cloudnotes-markdown-note-taking-app.jpg"
+    }
+  ],
+  "project-details": [
+    {
+      "id": "devflow",
+      "title": "DevFlow",
+      "problem": "Code review context gets lost across Slack threads and GitHub comments.",
+      "solution": "A unified real-time workspace where reviewers and authors co-annotate diffs live.",
+      "outcome": "Reduced average review cycle time by ~40% in beta teams of 5–12 engineers."
+    },
+    {
+      "id": "vaultpass",
+      "title": "VaultPass",
+      "problem": "Most password managers trust the server with your secrets.",
+      "solution": "Client-side encryption using the Web Crypto API means the server stores only ciphertext — a breach exposes nothing.",
+      "outcome": "Passed independent security audit with zero critical findings."
+    },
+    {
+      "id": "shipmetrics",
+      "title": "ShipMetrics",
+      "problem": "Shopify's native analytics lack cross-channel revenue attribution.",
+      "solution": "A webhook-driven ingestion pipeline normalises orders from multiple storefronts into a single Postgres schema with pre-aggregated views.",
+      "outcome": "Onboarded 3 paying beta merchants within 2 weeks of launch."
+    },
+    {
+      "id": "opencartai",
+      "title": "OpenCart AI",
+      "problem": "Adding personalised recommendations to a headless store requires expensive third-party SDKs.",
+      "solution": "A self-hosted FastAPI microservice that computes collaborative-filtering recommendations from order history.",
+      "outcome": "220+ GitHub stars in the first month; adopted by 15 community forks."
+    }
+  ],
+  "about-intro": [
+    {
+      "point": "Based in — open to remote opportunities worldwide"
+    },
+    {
+      "point": "5+ years building production-grade web applications"
+    },
+    {
+      "point": "Comfortable across the full stack: from database schema to deployed UI"
+    },
+    {
+      "point": "Strong believer in TypeScript, tests, and meaningful code reviews"
+    },
+    {
+      "point": "Open-source contributor and occasional technical writer"
+    }
+  ],
+  "experience-timeline": [
+    {
+      "period": "2023 – Present",
+      "title": "Senior Full Stack Engineer",
+      "company": "NovaSpark Technologies",
+      "description": "Led architecture of a multi-tenant SaaS platform serving 40,000+ users. Migrated a legacy monolith to a Next.js 14 + Node.js microservices stack, reducing p95 API latency by 62%. Mentored a team of four junior engineers and introduced a component-driven design system adopted across three product lines."
+    },
+    {
+      "period": "2021 – 2023",
+      "title": "Full Stack Developer",
+      "company": "Meridian Labs",
+      "description": "Built and maintained a real-time analytics dashboard for e-commerce clients using React, GraphQL, and PostgreSQL. Designed a webhook delivery system that processed over 2 million events per day with 99.97% reliability. Collaborated directly with product and design to ship eight major feature releases."
+    },
+    {
+      "period": "2020 – 2021",
+      "title": "Frontend Engineer",
+      "company": "Stackbloom (YC W20)",
+      "description": "Joined as the second engineering hire at an early-stage startup. Owned the entire frontend codebase in React and TypeScript, shipping the MVP in six weeks. Integrated Stripe billing, built an onboarding flow that improved activation rate by 34%, and set up CI/CD pipelines with GitHub Actions."
+    },
+    {
+      "period": "2019 – 2020",
+      "title": "Junior Web Developer",
+      "company": "Crestline Digital Agency",
+      "description": "Delivered custom WordPress and Shopify builds for 15+ client projects. Wrote reusable JavaScript components and optimised Core Web Vitals scores, achieving Lighthouse performance scores above 90 across all client sites."
+    }
+  ],
+  "skills-detailed": [
+    {
+      "category": "Frontend",
+      "name": "Next.js 14 (App Router)",
+      "desc": "My default for production React apps; I leverage RSC, streaming, and ISR to build fast, SEO-friendly UIs"
+    },
+    {
+      "category": "Frontend",
+      "name": "TypeScript",
+      "desc": "Non-negotiable on every project; catches entire classes of bugs before they reach users"
+    },
+    {
+      "category": "Frontend",
+      "name": "Tailwind CSS + Framer Motion",
+      "desc": "Utility-first styling paired with physics-based animations for interfaces that feel alive"
+    },
+    {
+      "category": "Frontend",
+      "name": "React Query / Zustand",
+      "desc": "Server-state and client-state management without the boilerplate overhead of Redux"
+    },
+    {
+      "category": "Backend",
+      "name": "Node.js + Express / Fastify",
+      "desc": "Battle-tested for REST APIs; Fastify when raw throughput matters"
+    },
+    {
+      "category": "Backend",
+      "name": "PostgreSQL + Prisma ORM",
+      "desc": "Relational data modelling with type-safe queries; I write migrations by hand when schema complexity demands it"
+    },
+    {
+      "category": "Backend",
+      "name": "Redis",
+      "desc": "Caching, rate-limiting, pub/sub, and session storage — the Swiss Army knife of backend infrastructure"
+    },
+    {
+      "category": "Backend",
+      "name": "GraphQL (Apollo Server)",
+      "desc": "Preferred for complex, relationship-heavy data graphs and multi-client APIs"
+    },
+    {
+      "category": "DevOps",
+      "name": "Docker + Docker Compose",
+      "desc": "Containerised local development and reproducible production environments"
+    },
+    {
+      "category": "DevOps",
+      "name": "AWS (EC2, S3, RDS, Lambda, CloudFront)",
+      "desc": "Comfortable designing and deploying cloud-native architectures on AWS"
+    },
+    {
+      "category": "DevOps",
+      "name": "GitHub Actions + Vercel",
+      "desc": "Automated CI/CD pipelines from commit to production in minutes"
+    },
+    {
+      "category": "Testing",
+      "name": "Vitest + Playwright",
+      "desc": "Unit and integration tests with Vitest; end-to-end coverage with Playwright across critical user journeys"
+    },
+    {
+      "category": "Tools",
+      "name": "Git, Figma, Linear, Notion",
+      "desc": "The workflow stack that keeps me and my teams aligned and shipping"
+    }
+  ],
+  "about-cta": [
+    {
+      "label": "Download Résumé (PDF)",
+      "href": "/resume-afzal-rao.pdf",
+      "download": true
+    },
+    {
+      "label": "View My Projects",
+      "href": "/projects",
+      "download": false
+    },
+    {
+      "label": "Connect on LinkedIn",
+      "href": "https://linkedin.com/in/afzalrao",
+      "download": false
+    }
+  ],
+  "contact-form": [
+    {
+      "field": "name",
+      "label": "Your Name",
+      "placeholder": "Your full name",
+      "required": true
+    },
+    {
+      "field": "email",
+      "label": "Email Address",
+      "placeholder": "your@email.com",
+      "required": true
+    },
+    {
+      "field": "subject",
+      "label": "Subject",
+      "placeholder": "e.g. Freelance project inquiry",
+      "required": true
+    },
+    {
+      "field": "message",
+      "label": "Message",
+      "placeholder": "Tell me about your project, timeline, budget, or anything else relevant — the more detail, the better",
+      "required": true
+    },
+    {
+      "field": "submit",
+      "label": "Send Message",
+      "placeholder": "",
+      "required": false
+    },
+    {
+      "field": "error",
+      "label": "Something went wrong. Please try again or email afzal@afzalrao.dev directly.",
+      "placeholder": "",
+      "required": false
+    }
+  ],
+  "social-links": [
+    {
+      "platform": "GitHub",
+      "handle": "github.com/afzalrao",
+      "url": "https://github.com/afzalrao",
+      "desc": "Browse my open-source projects, contributions, and code experiments"
+    },
+    {
+      "platform": "LinkedIn",
+      "handle": "linkedin.com/in/afzalrao",
+      "url": "https://linkedin.com/in/afzalrao",
+      "desc": "Professional background, recommendations, and career updates"
+    },
+    {
+      "platform": "Twitter / X",
+      "handle": "@afzalrao_dev",
+      "url": "https://twitter.com/afzalrao_dev",
+      "desc": "Quick thoughts on full-stack development, tooling, and the web platform"
+    },
+    {
+      "platform": "Email",
+      "handle": "afzal@afzalrao.dev",
+      "url": "mailto:afzal@afzalrao.dev",
+      "desc": "For longer conversations or if the form isn't your style"
+    }
+  ]
+}
